@@ -4,3 +4,7 @@
 open QuotationCompiler
 
 QuotationCompiler.Eval <@ 1 + 1 @>
+
+let a = QuotationCompiler.ToDynamicAssembly <@ fun x -> x + 1 @>
+
+a.c
