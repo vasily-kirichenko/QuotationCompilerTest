@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "QuotationCompilerTest", "QuotationCompilerTest\QuotationCompilerTest.fsproj", "{009A2D05-F035-4556-980B-5D8D6A35CFEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{7A627A42-EEF1-4815-8D74-48EB0842F94F}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009A2D05-F035-4556-980B-5D8D6A35CFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009A2D05-F035-4556-980B-5D8D6A35CFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009A2D05-F035-4556-980B-5D8D6A35CFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009A2D05-F035-4556-980B-5D8D6A35CFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+redirects: on
+framework: net46
+source https://www.nuget.org/api/v2
+
+nuget QuotationCompiler
